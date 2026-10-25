@@ -1,0 +1,21 @@
+*.iml
+.gradle/
+.idea/
+.kotlin/
+/local.properties
+local.properties
+/build/
+app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+.DS_Store
+
+# Exclude scratch & non-project files (resumes, dissertations)
+*.pdf
+evaluate_ats*.py
+generate_*.py
+generated_charts/
+generated_charts_full/
+preview_*.png
+resume_preview*.png

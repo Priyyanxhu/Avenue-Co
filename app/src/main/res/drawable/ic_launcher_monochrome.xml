@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Single-color silhouette for themed icons: bag + handle, M punched out via evenOdd -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillType="evenOdd"
+        android:pathData="M32,56 Q32,48 40,48 H64 Q72,48 72,56 V78 Q72,86 64,86 H40 Q32,86 32,78 Z M43,74 V60 H47 L52,68 L57,60 H61 V74 H57 V65 L52,72 L47,65 V74 Z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5.5"
+        android:strokeLineCap="round"
+        android:pathData="M44,50 C44,30 60,30 60,50" />
+</vector>
